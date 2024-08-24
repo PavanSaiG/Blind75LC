@@ -19,6 +19,7 @@ class Solution {
         {
             if(pf[i]>max)
             max = pf[i];
+            System.out.println(pf[i]);
         }
         return max;
     }
