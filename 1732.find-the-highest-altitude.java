@@ -21,6 +21,7 @@ class Solution {
             max = pf[i];
             System.out.println(pf[i]);
         }
+        System.out.println(max);
         return max;
     }
 }
