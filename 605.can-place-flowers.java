@@ -7,7 +7,7 @@
 // @lc code=start
 class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
-        
+        return true;
     }
 }
 // @lc code=end
