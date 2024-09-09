@@ -12,6 +12,7 @@ class Solution {
         {
             ans = ans^i;
         }
+        System.out.println(ans);
         return ans;
     }
 }
